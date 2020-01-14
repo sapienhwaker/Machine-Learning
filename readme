@@ -1,0 +1,8 @@
+Files, Code and related information:
+
+1. project.py : Data collection
+2. work.py : Emotional categorization of words and their respective percentage
+3. latest.py : LDA model for 10 topics
+4. Possions.py : Poissons prediction model
+5. NegativeBinomial.py : NegativeBinomial prediction model
+6. seperatepost.py, cloud.py were created while experimenting.
